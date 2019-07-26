@@ -66,9 +66,9 @@ function mouseClicked(){
     // else if( mouse X )
     } else if (mouseX < 600 && mouseX > 540 && mouseY < 600 && mouseY > 540 ){
         color3 = red;     
-    } else if (mouseX > 360 && mouseX <  420 && mouseY > 320 && mouseY < 360){
+    } else if (mouseX > 360 && mouseX <  420 && mouseY > 420 && mouseY < 480){
         color4 = red;
-    } else if (mouseX < 600 && mouseX >  540 && mouseY > 420 && mouseY < 480){
+    } else if (mouseX < 600 && mouseX >  540 && mouseY > 300 && mouseY < 360){
         color5 = red;
     }
     // if (mouseX > 0 && mouseX < 60 && ){
