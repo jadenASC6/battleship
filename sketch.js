@@ -20,7 +20,7 @@ let color5;
 let red = [225,0,0];
 let blue = [0,30,112];
 function setup() {
-    createCanvas(200, 200);
+    createCanvas(600, 600);
     background(0,0,0);
     box_height = height/num_of_boxes_in_coloumn;
     box_width = width/num_of_boxes_in_row;
